@@ -1,0 +1,6 @@
+# Streamlit Cloud에서 추가 패키지 설치를 위한 파일
+# requirements.txt에 없는 시스템 패키지들을 여기에 추가
+
+# 예시 (필요한 경우에만 추가):
+# libgomp1
+# libglib2.0-0

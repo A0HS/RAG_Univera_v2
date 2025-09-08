@@ -1,0 +1,3 @@
+[33m620f688[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Remove notebook file with API keys
+[33m4e99b46[m Remove API keys from config.py for security
+[33mbaed1e5[m Initial commit: Univera RAG Chatbot - Pinecone based system
